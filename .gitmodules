@@ -1,9 +1,3 @@
-[submodule "plugins/plugins/conda-zsh-completion"]
-	path = plugins/plugins/conda-zsh-completion
-	url = https://github.com/esc/conda-zsh-completion.git
-[submodule "conda-zsh-completion"]
-	path = conda-zsh-completion
-	url = https://github.com/esc/conda-zsh-completion.git
 [submodule "zsh-autopair"]
 	path = zsh-autopair
 	url = https://github.com/hlissner/zsh-autopair.git
