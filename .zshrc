@@ -17,4 +17,4 @@ source $HOME/.config/zsh/zshrc
 # To customize prompt, run `p10k configure` or edit ~/.config/zsh/.p10k.zsh.
 [[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/.p10k.zsh
 
-source "/home/littleaksmax/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme"
+source "/home/littleaksmax/.config/zsh/plugins/powerlevel10k/powerlevel10k.zsh-theme"

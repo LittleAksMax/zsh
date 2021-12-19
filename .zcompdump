@@ -892,6 +892,7 @@ _comps=(
 'make-kpkg' '_make-kpkg'
 'makeinfo' '_texinfo'
 'makepkg' '_pkgtool'
+'mamba' '_conda'
 'man' '_man'
 'manage.py' '_django'
 'manila' '_openstack'
