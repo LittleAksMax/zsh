@@ -1,0 +1,2 @@
+# change the theme of bat (the cat clone)
+export BAT_THEME="OneHalfDark"
